@@ -41,7 +41,6 @@ Both applications initialize network drivers simultaneously during startup. This
 5. Conditions Tab:
    - Uncheck "Start only if on AC power"
 6. Save
-7.***And finally, please restart once more after the system has been running for at least 5 minutes so that the script can take effect in the background!***
   
 ### Step 3: Enable Auto-Connect in Mullvad
 - In Mullvad → VPN Settings → Enable "Auto-connect"
@@ -63,7 +62,7 @@ Both applications initialize network drivers simultaneously during startup. This
 4. Restart your computer
 5. Check log: `C:\Scripts\mullvad_log.txt` for confirmation
 6. Then shut down completely and start again !
-
+7. ***And finally, please restart once more after the system has been running for at least 5 minutes so that the script can take effect in the background!***
 ---
 
 ## TL;DR
